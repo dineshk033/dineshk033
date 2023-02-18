@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshk033
-- 👀 I’m interested in React and Angular we development
+- 👀 I’m interested in React and Angular development
 - 🌱 I’m currently learning React Native ...
 - 📫 Reach me on dineshk033@gmail.com ...
 
